@@ -18,4 +18,4 @@ This website at present stores some of my notes only.
 [Topological Physics (in Chinese)](/拓扑物理笔记.pdf)
 
 ## Contact
-Feel free to [contact me](/contact/) for academic inquiries or collaborations.
+Feel free to [contact me](/en/contact/) for academic inquiries or collaborations.
