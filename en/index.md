@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+permalink: /en/
 ---
 
 # Welcome to My Academic Page
