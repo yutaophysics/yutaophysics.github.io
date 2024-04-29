@@ -3,5 +3,5 @@ layout: default
 title: Home
 ---
 
-[English](/en/)                    [中文](/zh/)
+[English](/en/)         $\quad$           [中文](/zh/)
 
