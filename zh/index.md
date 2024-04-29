@@ -4,7 +4,7 @@ title: 主页
 permalink: /zh/
 ---
 
-[English](/en/)          &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;           [中文](/zh/)
+[English](/en/)          &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;           中文
 
 # 欢迎来到我的主页
 
