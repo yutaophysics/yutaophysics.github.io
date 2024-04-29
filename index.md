@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homea
+title: Home
 ---
 
 # Welcome to My Academic Page
