@@ -4,6 +4,8 @@ title: Home
 permalink: /en/
 ---
 
+[English](/en/)          &nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;           [中文](/zh/)
+
 # Welcome to My Academic Page
 
 ## About Me
