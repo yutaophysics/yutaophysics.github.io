@@ -10,7 +10,7 @@ permalink: /en/
 I am Yu-Tao Hu, a doctoral student at Sun Yat-Sen University, major in theoretical physics. 
 
 ## About This Website
-This website at present stores some of my detailed notes only.
+This website at present stores some of my notes only.
 
 ## Notes
 [Topological Physics (in Chinese)](/拓扑物理笔记.pdf)
